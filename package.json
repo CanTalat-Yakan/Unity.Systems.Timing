@@ -1,17 +1,11 @@
 {
   "name": "com.unityessentials.timings",
   "version": "1.0.0",
-  "displayName": "UnityEssenstials Timings",
+  "displayName": "Unity Systems Timings",
   "description": "This is a part of the UnityEssentials Ecosystem",
-  "unity": "2022.1",
+  "unity": "6000.0",
   "unityRelease": "",
-  "dependencies": {
-    "com.unityessentials.core": "1.0.0",
-    "com.unityessentials.singleton": "1.0.0",
-    "com.unityessentials.objectpool": "1.0.0",
-    "com.unityessentials.managedarray": "1.0.0",
-    "com.unityessentials.tickupdate": "1.0.0"
-  },
+  "dependencies": {},
   "keywords": [],
   "author": {
     "name": "Unity Essentials",
