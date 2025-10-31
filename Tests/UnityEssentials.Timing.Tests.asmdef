@@ -6,7 +6,10 @@
         "UnityEditor.TestRunner",
         "UnityEssentials.Singleton",
         "UnityEssentials.ManagedArray",
-        "UnityEssentials.Timing"
+        "UnityEssentials.Timing",
+        "UnityEssentials.ObjectPool",
+        "UnityEssentials.PlayerLoopHook",
+        "UnityEssentials.TickUpdate"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
