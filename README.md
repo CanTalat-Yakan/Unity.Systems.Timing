@@ -54,7 +54,6 @@ A compact runtime system for fineâ€‘grained coroutine control. Instead of Unityâ
 ## Requirements
 - Unity 6000.0+
 - Runtime module; no external dependencies
-- Ensure a `Timing` component exists at runtime (e.g., add it to a bootstrap GameObject)
 
 ## Usage
 
