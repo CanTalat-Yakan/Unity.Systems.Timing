@@ -9,7 +9,6 @@
         "UnityEssentials.Timing",
         "UnityEssentials.ObjectPool",
         "UnityEssentials.PlayerLoopHook",
-        "UnityEssentials.TickUpdate",
         "UnityEssentials.Tick"
     ],
     "includePlatforms": [],
