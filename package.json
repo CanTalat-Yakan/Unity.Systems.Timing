@@ -1,17 +1,17 @@
 {
   "name": "com.unityessentials.systems.timings",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Systems Timings",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unity.test-framework": "1.6.0",
-    "com.unityessentials.editor.hooks.playerloop": "2.0.0",
-    "com.unityessentials.systems.singleton": "2.0.0",
-    "com.unityessentials.systems.tick": "2.0.0",
-    "com.unityessentials.types.managedarray": "2.0.0",
-    "com.unityessentials.types.objectpool": "2.0.0"
+    "com.unity.test-framework": "~1.6.0",
+    "com.unityessentials.editor.hooks.playerloop": "~2.0.0",
+    "com.unityessentials.systems.singleton": "~2.0.0",
+    "com.unityessentials.systems.tick": "~2.0.0",
+    "com.unityessentials.types.managedarray": "~2.0.0",
+    "com.unityessentials.types.objectpool": "~2.0.0"
   },
   "keywords": [],
   "author": {
