@@ -1,0 +1,27 @@
+{
+    "name": "UnityEssentials.Systems.Timing.Tests",
+    "rootNamespace": "UnityEssentials.Tests",
+    "references": [
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:31005776ba0ea9c4bb2ee78cca2f6886",
+        "GUID:7ccd01408cad58c499d8256514154171",
+        "GUID:d00b0cece71aead41951b37f4314dc39",
+        "GUID:bbc58e8deea7ead41b6ae8e06f72ea75",
+        "GUID:cd0c86d488f143b4c8b7c930d24f2695",
+        "GUID:0fa8651d0b88ef34ca92b90242219007"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.Timing",
+    "name": "UnityEssentials.Systems.Timing",
     "rootNamespace": "UnityEssentials",
     "references": [
         "GUID:31005776ba0ea9c4bb2ee78cca2f6886",
